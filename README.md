@@ -9,9 +9,10 @@
  - 📫 How to reach me: 
   :link: **[Linkedin](https://www.linkedin.com/in/sanjayrajpurohit/)**
   :bird: **[Twitter](https://twitter.com/Sanjay_RPurohit)**
-  :mailbox_with_mail **[Gmail] (sanjayrajpurohit36@gmail.com)**
+  📬 **[Gmail](sanjayrajpurohit36@gmail.com)**
 
 [![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=sanjayrajpurohit36)](https://github.com/sanjayrajpurohit36/github-readme-stats)
+&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrajpurohit36)](https://github.com/sanjayrajpurohit36/github-readme-stats)
 
 
