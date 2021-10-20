@@ -12,5 +12,5 @@ Here are some ideas to get you started:
  - 👯 I’m looking to collaborate on Open Source Projects on React, Node, TypeScript.
  - 📫 How to reach me: sanjayrajpurohit36@gmail.com
 
-- [![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=sanjayrajpurohit36)](https://github.com/sanjayrajpurohit36/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrajpurohit36&layout=compact)](https://github.com/sanjayrajpurohit36/github-readme-stats)
+[![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=sanjayrajpurohit36)](https://github.com/sanjayrajpurohit36/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrajpurohit36)](https://github.com/sanjayrajpurohit36/github-readme-stats)
