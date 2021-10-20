@@ -1,20 +1,19 @@
 ## Hi there, 👋 Myself *Sanjay Rajpurohit*
 ### Glad to see you here! 🤩 &nbsp;
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/sanjayrajpurohit36)
 
- - 🔭 I’m currently working on Javascrit
- - 🌱 I’m currently learning Algorithms, DSA, React, Node
- - 👯 I’m looking to collaborate on Open Source Projects on React, Node, TypeScript.
- - 📫 How to reach me: 
-  :link: **[Linkedin](https://www.linkedin.com/in/sanjayrajpurohit/)**
+ - 🔭 I’m currently working on **React, Node**
+ - 🌱 I’m currently learning **Algorithms, DSA, React, Node**
+ - 👯 I’m looking to collaborate on **Open Source Projects on React, Node, TypeScript.**
+ - 📫 Reach out to me at: sanjayrajpurohit36@gmail.com
+ 
+ ## HeadingConect with me on:
+ :link: **[Linkedin](https://www.linkedin.com/in/sanjayrajpurohit/)**
   :bird: **[Twitter](https://twitter.com/Sanjay_RPurohit)**
-  📬 **[Gmail](sanjayrajpurohit36@gmail.com)**
 
 [![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=sanjayrajpurohit36)](https://github.com/sanjayrajpurohit36/github-readme-stats)
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrajpurohit36)](https://github.com/sanjayrajpurohit36/github-readme-stats)
-
 
 
 <!--
