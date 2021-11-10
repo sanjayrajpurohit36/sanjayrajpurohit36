@@ -8,9 +8,11 @@
  - 🏆 I write at @ **[HashNode](https://srpdev.hashnode.dev/)**
  - 📫 Reach out to me at: sanjayrajpurohit36@gmail.com
  
- ## HeadingConect with me on:
- - :link: **[Linkedin](https://www.linkedin.com/in/sanjayrajpurohit/)** 
- - :bird: **[Twitter](https://twitter.com/Sanjay_RPurohit)**
+ ##Conect with me on:
+- <a href="mailto:sanjayrajpurohit36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
+- <a href="https://twitter.com/Sanjay_RPurohit"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30
+</a>
+-<a href="https://www.linkedin.com/in/sanjayrajpurohit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
 
 [![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=sanjayrajpurohit36)](https://github.com/sanjayrajpurohit36/github-readme-stats)
 &nbsp;
